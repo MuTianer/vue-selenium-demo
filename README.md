@@ -1,45 +1,23 @@
-# vue-demo-project
+## vue项目安装依赖包
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
 npm install
-```
 
-### Compile and Hot-Reload for Development
+## vue项目运行
 
-```sh
 npm run dev
-```
 
-### Type-Check, Compile and Minify for Production
+## Python环境
 
-```sh
-npm run build
-```
+https://www.python.org/downloads/
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+## Python安裝依賴包
 
-```sh
-npm run test:unit
-```
+pip install -r requirements.txt
 
-### Lint with [ESLint](https://eslint.org/)
+## Python启动测试项目
 
-```sh
-npm run lint
-```
+python tests/test_vue.py
+
+## selenium的webDriver api文档
+
+https://www.selenium.dev/zh-cn/documentation/webdriver/
